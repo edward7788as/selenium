@@ -2,7 +2,7 @@
 
 
 先到尚未開賣的網頁，前一分鐘執行此程式，會自動刷新並且購物。
-ps.我遇到購物車是空的無法購買問題
+ps.我遇到購物車是空的無法購買問題，所以我用credict_card.py 有成功購買
 
 ![image](https://user-images.githubusercontent.com/54543570/157814001-e42c5017-ec76-479f-baef-59ec535040a0.png)
 
